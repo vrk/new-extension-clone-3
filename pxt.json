@@ -1,5 +1,5 @@
 {
-    "name": "new-extension-clone--no-gh-linked",
+    "name": "new-extension-clone--gh-linked",
     "description": "",
     "dependencies": {
         "core": "*",
